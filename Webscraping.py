@@ -45,4 +45,4 @@ with open('webscraping.csv', 'a') as csv_file: #why 'a'? if use nothing or newli
     write = csv.writer(csv_file) # csv_file from above line could be any name
     for name, price in data:
         write.writerow([name,price,datetime.now()])
-        #nadaf
+        #nada
