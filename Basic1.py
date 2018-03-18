@@ -12,4 +12,4 @@ word = 'jose'
 a = []
 for w in word:
     a.append(w)
-print(a)
+print(a+'j')
