@@ -10,10 +10,16 @@ try:
     ttk.Button(root1, text = "I'm happy ").grid()
     ttk.Label(root1, text = 'hi my name is glory').grid()
     ttk.Checkbutton(root1, text = 'kawawonga').grid()
+    ttk.Radiobutton(root1, text = 'kawawonga', value = 'jota').grid()
+
+    b = ttk.Entry(root1, text ='jose').grid(column =1, row = 1)
+
 except :
     pass
 
-print('hello')
+
 root1.mainloop()
+
+print('hello')
 
 
