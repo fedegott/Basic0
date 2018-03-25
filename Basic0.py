@@ -52,5 +52,3 @@ for i in range(len(result)):
         if(final == result[i]): lista.append(final)
         # else: alist.pop()
         print(lista)
-
-        print('f')
