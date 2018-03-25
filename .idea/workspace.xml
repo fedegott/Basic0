@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="806b8279-becd-4367-b9e2-31aa20d912be" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/basic0.iml" afterPath="$PROJECT_DIR$/.idea/Intro Scripts.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/Intro Scripts.iml" afterPath="$PROJECT_DIR$/.idea/Intro_Scripts.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -145,15 +146,15 @@
         <subPane>
           <expand>
             <path>
-              <item name="Intro Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro_Scripts" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Intro Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro_Scripts" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
-              <item name="Intro Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro_Scripts" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; Python 3.6 (untitled) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
@@ -512,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522000177050</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="change">
+      <created>1522000360727</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1522000360727</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -636,7 +644,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/w.py" />
-    <entry file="file://$PROJECT_DIR$/.idea/Intro Scripts.iml">
+    <entry file="file://$PROJECT_DIR$/.idea/Intro_Scripts.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
