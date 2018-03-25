@@ -21,7 +21,7 @@
 #
 # c = "".join(wordlist)
 # d = [ word[i] for word in wordlist for i in range(len(word))]
-
+a=4
 import numpy as np
 string = 'a b c d e f g h i j k l m n o p q r s t u v w x y z ' #determines the possibilities
 result = 'methinksitislikeaweasel' #can't use spaces unless they're also added to the string
