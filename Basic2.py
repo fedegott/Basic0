@@ -93,4 +93,4 @@ def find_n(N):
     plt.show()
 
 N = 500  # input size
-find_n(N)
+find_n2(N)
