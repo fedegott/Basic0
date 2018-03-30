@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="806b8279-becd-4367-b9e2-31aa20d912be" name="Default" comment="change">
-      <change beforePath="$PROJECT_DIR$/.idea/Intro_Scripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Intro_Scripts.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,6 +10,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Cvs2Configuration">
+    <option name="OVERRIDE_EXISTING_TAG_FOR_PROJECT" value="false" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -94,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Basic2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Basic2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Basic2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="835">
+            <state relative-caret-position="834">
               <caret line="90" column="38" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
               <folding>
                 <element signature="e#304#322#0" expanded="true" />
@@ -106,7 +106,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Intro.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Intro.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -587,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522430452905</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="change">
+      <created>1522445500902</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1522445500902</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView">
@@ -603,12 +610,12 @@
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13548641" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13548641" />
       <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.48601812" weight="0.3269934" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.40370226" side_tool="true" visible="true" weight="0.21758242" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.40448996" side_tool="true" visible="true" weight="0.21758242" />
       <window_info anchor="bottom" id="Run" order="6" sideWeight="0.47144544" weight="0.32626188" />
-      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.47932258" weight="0.3269934" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.59629774" visible="true" weight="0.21758242" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.47853485" weight="0.32673994" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.59551007" visible="true" weight="0.21758242" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.24970461" />
       <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49456128" weight="0.32928178" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49271366" weight="0.39941478" />
@@ -1001,9 +1008,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basic1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1013,13 +1017,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="835">
+        <state relative-caret-position="834">
           <caret line="90" column="38" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
           <folding>
             <element signature="e#304#322#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
