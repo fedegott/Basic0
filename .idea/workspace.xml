@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="806b8279-becd-4367-b9e2-31aa20d912be" name="Default" comment="change">
+    <list default="true" id="806b8279-becd-4367-b9e2-31aa20d912be" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Intro_Scripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Intro_Scripts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,7 +110,14 @@
       </file>
       <file leaf-file-name="Intro.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -121,7 +130,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Intro_Machine_Learning" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -180,7 +189,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -594,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522445500902</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="change">
+      <created>1522445771410</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1522445771410</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView">
@@ -610,12 +626,12 @@
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13548641" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13548641" />
       <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.48601812" weight="0.3269934" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.40448996" side_tool="true" visible="true" weight="0.21758242" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.521859" side_tool="true" visible="true" weight="0.32673994" />
       <window_info anchor="bottom" id="Run" order="6" sideWeight="0.47144544" weight="0.32626188" />
-      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.47853485" weight="0.32673994" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.59551007" visible="true" weight="0.21758242" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="1" sideWeight="0.478141" visible="true" weight="0.32673994" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.59551007" weight="0.21758242" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.24970461" />
       <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49456128" weight="0.32928178" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49271366" weight="0.39941478" />
@@ -700,7 +716,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Try1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1026,7 +1048,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
