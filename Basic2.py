@@ -94,3 +94,4 @@ def find_n(N):
 
 N = 500  # input size
 find_n2(N)
+

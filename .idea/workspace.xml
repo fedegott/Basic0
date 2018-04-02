@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="806b8279-becd-4367-b9e2-31aa20d912be" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Intro_Scripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Intro_Scripts.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI_Chaos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic2.py" afterDir="false" />
     </list>
+    <list id="c9296895-8046-4d6c-8e22-c61ae2d78a32" name="New changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="repository" />
+    </option>
   </component>
   <component name="Cvs2Configuration">
     <option name="OVERRIDE_EXISTING_TAG_FOR_PROJECT" value="false" />
@@ -99,8 +105,8 @@
       <file leaf-file-name="Basic2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Basic2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="834">
-              <caret line="90" column="38" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
+            <state relative-caret-position="953">
+              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
               <folding>
                 <element signature="e#304#322#0" expanded="true" />
               </folding>
@@ -108,14 +114,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Intro.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Intro.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GUI_Chaos.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GUI_Chaos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="193" selection-start-column="193" selection-end-column="193" />
             </state>
           </provider>
         </entry>
@@ -130,7 +145,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Intro_Machine_Learning" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -143,8 +158,9 @@
         <option value="$PROJECT_DIR$/Basic1.py" />
         <option value="$PROJECT_DIR$/Basic0.py" />
         <option value="$PROJECT_DIR$/Webscraping.py" />
-        <option value="$PROJECT_DIR$/Basic2.py" />
         <option value="$PROJECT_DIR$/../Intro_Machine_Learning/Intro.py" />
+        <option value="$PROJECT_DIR$/Basic2.py" />
+        <option value="$PROJECT_DIR$/GUI_Chaos.py" />
       </list>
     </option>
   </component>
@@ -215,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Basic2">
+  <component name="RunManager" selected="Python.Intro">
     <configuration name="Basic0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basic0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,6 +299,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui_Tutorial_0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Intro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro_Machine_Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Intro_Machine_Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Intro_Machine_Learning/Intro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,9 +427,11 @@
       <item itemvalue="Python.Basic1" />
       <item itemvalue="Python.Basic0" />
       <item itemvalue="Python.Webscraping" />
+      <item itemvalue="Python.Intro" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Intro" />
         <item itemvalue="Python.Webscraping" />
         <item itemvalue="Python.Basic0" />
         <item itemvalue="Python.Basic1" />
@@ -409,6 +445,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="806b8279-becd-4367-b9e2-31aa20d912be" name="Default" comment="" />
+      <changelist id="c9296895-8046-4d6c-8e22-c61ae2d78a32" name="New changelist" comment="" />
       <created>1518966878520</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -610,7 +647,21 @@
       <option name="project" value="LOCAL" />
       <updated>1522445771410</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="change">
+      <created>1522446812428</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1522446812428</updated>
+    </task>
+    <task id="LOCAL-00030" summary="change">
+      <created>1522450667609</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1522450667609</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView">
@@ -626,21 +677,21 @@
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13548641" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13548641" />
       <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.48601812" weight="0.3269934" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.521859" side_tool="true" visible="true" weight="0.32673994" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.47144544" weight="0.32626188" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="1" sideWeight="0.478141" visible="true" weight="0.32673994" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.59551007" weight="0.21758242" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.40606537" side_tool="true" visible="true" weight="0.21758242" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.47065774" weight="0.32600734" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.47774714" weight="0.32673994" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.5939346" visible="true" weight="0.21758242" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.24970461" />
       <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49456128" weight="0.32928178" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49271366" weight="0.39941478" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
     </layout>
@@ -681,6 +732,90 @@
     <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Webscraping1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#79#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webscraping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Try1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gui_Tutorial_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="90" column="38" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
+          <folding>
+            <element signature="e#304#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Webscraping1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -970,9 +1105,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/w.py" />
-    <entry file="file://$PROJECT_DIR$/.idea/Intro_Scripts.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gui_Tutorial_0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1039,8 +1171,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="90" column="38" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
+        <state relative-caret-position="953">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
           <folding>
             <element signature="e#304#322#0" expanded="true" />
           </folding>
@@ -1049,11 +1181,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI_Chaos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="193" selection-start-column="193" selection-end-column="193" />
         </state>
       </provider>
     </entry>
