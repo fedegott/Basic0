@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="806b8279-becd-4367-b9e2-31aa20d912be" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/GUI_Chaos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic2.py" afterDir="false" />
-    </list>
     <list id="c9296895-8046-4d6c-8e22-c61ae2d78a32" name="New changelist" comment="" />
+    <list default="true" id="806b8279-becd-4367-b9e2-31aa20d912be" name="Default" comment="change">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Chaos.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI_Chaos.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -231,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Intro">
+  <component name="RunManager" selected="Python.GUI_Chaos">
     <configuration name="Basic0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basic0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -286,8 +285,8 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="GUI0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
+    <configuration name="GUI_Chaos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro_Scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -298,7 +297,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui_Tutorial_0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI_Chaos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -423,19 +422,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Basic2" />
-      <item itemvalue="Python.GUI0" />
       <item itemvalue="Python.Basic1" />
       <item itemvalue="Python.Basic0" />
       <item itemvalue="Python.Webscraping" />
       <item itemvalue="Python.Intro" />
+      <item itemvalue="Python.GUI_Chaos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GUI_Chaos" />
         <item itemvalue="Python.Intro" />
         <item itemvalue="Python.Webscraping" />
         <item itemvalue="Python.Basic0" />
         <item itemvalue="Python.Basic1" />
-        <item itemvalue="Python.GUI0" />
       </list>
     </recent_temporary>
   </component>
@@ -661,7 +660,21 @@
       <option name="project" value="LOCAL" />
       <updated>1522450667609</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="change">
+      <created>1522697005133</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1522697005133</updated>
+    </task>
+    <task id="LOCAL-00032" summary="change">
+      <created>1522697131932</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1522697131932</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TodoView">
@@ -677,12 +690,12 @@
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13548641" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13548641" />
       <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.48601812" weight="0.3269934" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.40606537" side_tool="true" visible="true" weight="0.21758242" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.47065774" weight="0.32600734" />
-      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.47774714" weight="0.32673994" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.5939346" visible="true" weight="0.21758242" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5226467" side_tool="true" visible="true" weight="0.32673994" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.47026387" weight="0.32600734" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="1" sideWeight="0.47735327" visible="true" weight="0.32673994" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.5939346" weight="0.21758242" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.24970461" />
       <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49456128" weight="0.32928178" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49271366" weight="0.39941478" />

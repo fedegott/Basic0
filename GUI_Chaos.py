@@ -1,1 +1,1 @@
-""" This is a script that will present the client with a simple GUI where he can specify the parameter r and the boundaries of x which will be used as input into plotting the chaotic behavior """
+""" This is a script that will present the client with a simple GUI where he can specify the parameter r and the boundaries of x which will be used as input into plotting the chaotic behavior  """
