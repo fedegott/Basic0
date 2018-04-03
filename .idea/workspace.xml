@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="c9296895-8046-4d6c-8e22-c61ae2d78a32" name="New changelist" comment="" />
-    <list default="true" id="806b8279-becd-4367-b9e2-31aa20d912be" name="Default" comment="change">
+    <list default="true" id="806b8279-becd-4367-b9e2-31aa20d912be" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GUI_Chaos.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI_Chaos.py" afterDir="false" />
     </list>
+    <list id="c9296895-8046-4d6c-8e22-c61ae2d78a32" name="New changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +26,7 @@
       <file leaf-file-name="Webscraping1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Webscraping1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="238">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#79#90#0" expanded="true" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="Webscraping.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Webscraping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="345">
               <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -59,7 +59,7 @@
       <file leaf-file-name="Basic0.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Basic0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
+            <state relative-caret-position="770">
               <caret line="54" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
@@ -80,7 +80,7 @@
       <file leaf-file-name="GUI1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GUI1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="51">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -92,7 +92,7 @@
       <file leaf-file-name="Gui_Tutorial_0.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gui_Tutorial_0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="272">
               <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -128,8 +128,11 @@
       <file leaf-file-name="GUI_Chaos.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GUI_Chaos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="193" selection-start-column="193" selection-end-column="193" />
+            <state relative-caret-position="527">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#263#284#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -674,7 +677,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522697131932</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="change">
+      <created>1522697276986</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1522697276987</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView">
@@ -692,10 +702,10 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13548641" />
       <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.48601812" weight="0.3269934" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5226467" side_tool="true" visible="true" weight="0.32673994" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.47026387" weight="0.32600734" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="1" sideWeight="0.47735327" visible="true" weight="0.32673994" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.5939346" weight="0.21758242" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5317054" side_tool="true" visible="true" weight="0.32600734" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4682946" visible="true" weight="0.32600734" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.47695944" weight="0.32673994" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.5919653" weight="0.21758242" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.24970461" />
       <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49456128" weight="0.32928178" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49271366" weight="0.39941478" />
@@ -1118,26 +1128,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/w.py" />
-    <entry file="file://$PROJECT_DIR$/Gui_Tutorial_0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Try1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1150,7 +1140,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Webscraping1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="238">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#79#90#0" expanded="true" />
@@ -1158,16 +1148,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Webscraping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="345">
           <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -1182,13 +1165,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic2.py">
+    <entry file="file://$PROJECT_DIR$/Basic0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="953">
-          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
-          <folding>
-            <element signature="e#304#322#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="770">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
@@ -1202,10 +1182,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Basic2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="953">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#304#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gui_Tutorial_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GUI_Chaos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="193" selection-start-column="193" selection-end-column="193" />
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#263#284#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
