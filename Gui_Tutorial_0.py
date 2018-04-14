@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-
 # tutorial copy paste from http://www.tkdocs.com/tutorial/onepage.html
 
 def calculate(*args):
