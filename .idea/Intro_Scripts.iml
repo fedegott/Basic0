@@ -6,7 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Intro_Machine_Learning" />
     <orderEntry type="module" module-name="Markets" />
-    <orderEntry type="module" module-name="z" />
+    <orderEntry type="module" module-name="Databases" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
