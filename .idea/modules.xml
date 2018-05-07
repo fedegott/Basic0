@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../Chaos/.idea/Chaos.iml" filepath="$PROJECT_DIR$/../Chaos/.idea/Chaos.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Databases/.idea/Databases.iml" filepath="$PROJECT_DIR$/../Databases/.idea/Databases.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Intro_Machine_Learning/.idea/Intro_Machine_Learning.iml" filepath="$PROJECT_DIR$/../Intro_Machine_Learning/.idea/Intro_Machine_Learning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Intro_Scripts.iml" filepath="$PROJECT_DIR$/.idea/Intro_Scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Intro_Scripts/.idea/Intro_Scripts.iml" filepath="$PROJECT_DIR$/../Intro_Scripts/.idea/Intro_Scripts.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Markets/.idea/Markets.iml" filepath="$PROJECT_DIR$/../Markets/.idea/Markets.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Webscraping/.idea/Webscraping.iml" filepath="$PROJECT_DIR$/../Webscraping/.idea/Webscraping.iml" />
     </modules>
