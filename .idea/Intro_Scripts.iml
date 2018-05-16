@@ -9,6 +9,8 @@
     <orderEntry type="module" module-name="Databases" />
     <orderEntry type="module" module-name="Chaos" />
     <orderEntry type="module" module-name="Webscraping" />
+    <orderEntry type="module" module-name="DailyProgramming_Reddit" />
+    <orderEntry type="module" module-name="Daily_Coding_Problem" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

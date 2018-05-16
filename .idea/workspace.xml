@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="806b8279-becd-4367-b9e2-31aa20d912be" name="Default" comment="change">
-      <change afterPath="$PROJECT_DIR$/../Chaos/Chaos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chaos/GUI1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chaos/GUI_Chaos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chaos/Gui_Tutorial_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyProgramming_Reddit/.idea/DailyProgramming_Reddit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyProgramming_Reddit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyProgramming_Reddit/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Daily_Coding_Problem/.idea/Daily_Coding_Problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Daily_Coding_Problem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Daily_Coding_Problem/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Daily_Coding_Problem/Problem2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Intro_Scripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Intro_Scripts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="c9296895-8046-4d6c-8e22-c61ae2d78a32" name="New changelist" comment="" />
@@ -29,6 +34,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Intro_ML_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro_ML_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Intro_ML.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro_ML.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -41,22 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Intro_ML_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro_ML_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="623">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Intro_ML_3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro_ML_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
+            <state relative-caret-position="523">
               <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
@@ -65,19 +70,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chaos.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Chaos/Chaos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Markets_0.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Markets/Markets_0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="839">
+            <state relative-caret-position="867">
               <caret line="51" column="151" selection-start-line="51" selection-start-column="151" selection-end-line="51" selection-end-column="151" />
               <folding>
                 <element signature="e#96#114#0" expanded="true" />
@@ -86,11 +82,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SQL_I.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gui_Tutorial_0.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Chaos/Gui_Tutorial_0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SQL_I.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Databases/SQL_I.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Webscraping1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Webscraping/Webscraping1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Webscraping.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Webscraping/Webscraping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Challenge #350 [Easy].py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../DailyProgramming_Reddit/Challenge #350 [Easy].py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Daily_Coding_Problem/Problem2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -142,6 +185,11 @@
         <option value="$PROJECT_DIR$/../Chaos/GUI_Chaos.py" />
         <option value="$PROJECT_DIR$/../Intro_Machine_Learning/Intro_ML_2.py" />
         <option value="$PROJECT_DIR$/../Markets/Markets_0.py" />
+        <option value="$PROJECT_DIR$/../untitled/Challenge #350 [Easy].py" />
+        <option value="$PROJECT_DIR$/../Daily_Programming_Reddit/Challenge #350 [Easy].py" />
+        <option value="$PROJECT_DIR$/../DailyProgramming_Reddit/Challenge #350 [Easy].py" />
+        <option value="$PROJECT_DIR$/../Daily_Coding_Problem/Problem#2.py" />
+        <option value="$PROJECT_DIR$/../Daily_Coding_Problem/Problem2.py" />
       </list>
     </option>
   </component>
@@ -186,6 +234,14 @@
             </path>
             <path>
               <item name="Intro_Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Daily_Coding_Problem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intro_Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyProgramming_Reddit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intro_Scripts" type="b2602c69:ProjectViewProjectNode" />
               <item name="Databases" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -207,7 +263,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="scatter_matrix&#9;null&#9;null&#10;pandas.tool.plotting&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value=":&#9;null&#9;null&#10;scatter_matrix&#9;null&#9;null&#10;pandas.tool.plotting&#9;null&#9;null" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -239,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Markets_0">
+  <component name="RunManager" selected="Python.Problem#2">
     <configuration name="Basic0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro_Scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,37 +332,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Chaos" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Chaos" />
+    <configuration name="Challenge #350 [Easy]" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DailyProgramming_Reddit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Chaos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../DailyProgramming_Reddit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Chaos/Chaos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Intro_ML_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Intro_Machine_Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Intro_Machine_Learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Intro_Machine_Learning/Intro_ML_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../DailyProgramming_Reddit/Challenge #350 [Easy].py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -325,6 +363,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Markets/Markets_0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Problem#2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Daily_Coding_Problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Daily_Coding_Problem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Daily_Coding_Problem/Problem2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,7 +405,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="untitled" />
+      <module name="Daily_Programming_Reddit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -359,7 +415,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="untitled" />
+      <module name="Daily_Programming_Reddit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -376,7 +432,7 @@
       <option name="USE_PATTERN" value="false" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Nosetests">
-      <module name="untitled" />
+      <module name="Daily_Programming_Reddit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -390,7 +446,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Twisted Trial">
-      <module name="untitled" />
+      <module name="Daily_Programming_Reddit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -403,7 +459,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="untitled" />
+      <module name="Daily_Programming_Reddit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -416,7 +472,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
-      <module name="untitled" />
+      <module name="Daily_Programming_Reddit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -431,19 +487,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Basic2" />
-      <item itemvalue="Python.Intro_ML_2" />
       <item itemvalue="Python.SQL_I" />
-      <item itemvalue="Python.Chaos" />
       <item itemvalue="Python.Basic0" />
       <item itemvalue="Python.Markets_0" />
+      <item itemvalue="Python.Challenge #350 [Easy]" />
+      <item itemvalue="Python.Problem#2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem#2" />
+        <item itemvalue="Python.Challenge #350 [Easy]" />
         <item itemvalue="Python.Markets_0" />
         <item itemvalue="Python.Basic0" />
         <item itemvalue="Python.SQL_I" />
-        <item itemvalue="Python.Chaos" />
-        <item itemvalue="Python.Intro_ML_2" />
       </list>
     </recent_temporary>
   </component>
@@ -458,34 +514,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518966878520</updated>
-    </task>
-    <task id="LOCAL-00013" summary="change">
-      <created>1521355553651</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1521355553651</updated>
-    </task>
-    <task id="LOCAL-00014" summary="change">
-      <created>1521355911534</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1521355911534</updated>
-    </task>
-    <task id="LOCAL-00015" summary="change">
-      <created>1521355989572</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1521355989572</updated>
-    </task>
-    <task id="LOCAL-00016" summary="change">
-      <created>1521497329673</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1521497329673</updated>
     </task>
     <task id="LOCAL-00017" summary="change">
       <created>1522000177050</created>
@@ -802,7 +830,35 @@
       <option name="project" value="LOCAL" />
       <updated>1525813409588</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="change">
+      <created>1525813898334</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1525813898334</updated>
+    </task>
+    <task id="LOCAL-00063" summary="change">
+      <created>1525814061835</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1525814061835</updated>
+    </task>
+    <task id="LOCAL-00064" summary="change">
+      <created>1525814422823</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1525814422823</updated>
+    </task>
+    <task id="LOCAL-00065" summary="change">
+      <created>1526504912215</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1526504912215</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TodoView">
@@ -816,16 +872,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49891305" visible="true" weight="0.13548641" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.48562425" weight="0.32673994" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5521859" side_tool="true" visible="true" weight="0.32600734" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4478141" visible="true" weight="0.32600734" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.55730605" side_tool="true" visible="true" weight="0.32600734" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.44269398" visible="true" weight="0.32600734" />
       <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.4710516" weight="0.32087913" />
-      <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.5758172" weight="0.21758242" />
+      <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.57030326" weight="0.21758242" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.24970461" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49375" weight="0.32853025" />
-      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49192595" weight="0.3992674" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49271366" weight="0.32820514" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.4915321" weight="0.3992674" />
       <window_info id="Favorites" order="0" sideWeight="0.50108695" side_tool="true" weight="0.13548641" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -873,27 +930,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Webscraping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Try1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1133,28 +1169,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Chaos/Gui_Tutorial_0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Chaos/GUI1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Webscraping/Webscraping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1175,10 +1195,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Markets/Markets_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Daily_Programming_Reddit/Challenge #350 [Easy].py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chaos/Chaos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Markets/Markets_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="151" selection-start-line="51" selection-start-column="151" selection-end-line="51" selection-end-column="151" />
+          <folding>
+            <element signature="e#96#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Databases/SQL_I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Webscraping/Webscraping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chaos/Gui_Tutorial_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Webscraping/Webscraping1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro_ML_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro_ML_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1192,50 +1282,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro_ML_2.py">
+    <entry file="file://$PROJECT_DIR$/../Daily_Coding_Problem/Problem2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="493">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Intro_Machine_Learning/Intro_ML_3.py">
+    <entry file="file://$PROJECT_DIR$/../DailyProgramming_Reddit/Challenge #350 [Easy].py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Markets/Markets_1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Markets/Markets_0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="839">
-          <caret line="51" column="151" selection-start-line="51" selection-start-column="151" selection-end-line="51" selection-end-column="151" />
-          <folding>
-            <element signature="e#96#114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Chaos/Chaos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Databases/SQL_I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
